@@ -80,7 +80,7 @@ Sin registro. Sin servidor. Sin suscripción. Todo se guarda localmente en tu di
 ### Versión web — PWA instalable
 Abrí la app en Chrome y tocá **"Agregar a pantalla de inicio"** para instalarla sin Play Store.
 
-➡️ **[Abrir app web](https://lukaromero098-blip.github.io/Business-finance)**
+➡️ **[Abrir app web](https://luka098-afk.github.io/Business-finance)**
 
 ---
 
